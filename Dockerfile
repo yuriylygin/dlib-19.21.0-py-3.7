@@ -1,4 +1,4 @@
-FROM  rackspacedot/python37:latest
+FROM  rackspacedot/python37:28
 
 RUN python -m pip install -U pip
 
